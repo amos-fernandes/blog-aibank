@@ -1,0 +1,61 @@
+{
+  "common": {
+    "home": "Início",
+    "about": "Sobre",
+    "whitepaper": "Whitepaper",
+    "contact": "Contato",
+    "joinNow": "Participe Agora"
+  },
+  "home": {
+    "welcome": "Bem-vindo ao AIBank Investments",
+    "description": "Descubra o poder dos investimentos impulsionados por IA e garanta seu futuro financeiro.",
+    "latestPosts": "Últimos Posts do Blog",
+    "whyChoose": "Por que escolher o AIBank?",
+    "features": {
+      "aiPowered": "Estratégias de investimento impulsionadas por IA",
+      "personalizedAdvice": "Consultoria financeira personalizada",
+      "security": "Medidas de segurança de ponta",
+      "transparency": "Taxas transparentes e baixas"
+    },
+    "startInvesting": "Comece a Investir Agora"
+  },
+  "about": {
+    "title": "Sobre o AIBank Investments",
+    "mission": "Nossa Missão",
+    "missionText": "Nossa missão é democratizar o acesso a estratégias sofisticadas de investimento, tornando-as disponíveis para todos, não apenas para os ultra-ricos ou investidores institucionais.",
+    "team": "Nossa Equipe",
+    "teamText": "Liderada por um grupo diversificado de especialistas em finanças, tecnologia e inteligência artificial, nossa equipe está comprometida em expandir os limites do possível no mundo dos investimentos.",
+    "technology": "Nossa Tecnologia",
+    "technologyText": "No coração do AIBank Investments está nosso mecanismo de IA proprietário. Este sistema avançado analisa vastas quantidades de dados financeiros em tempo real, identificando padrões e oportunidades que analistas humanos podem perder.",
+    "join": "Junte-se a Nós",
+    "joinText": "Seja você um investidor experiente ou apenas começando, o AIBank Investments tem as ferramentas e a experiência para ajudá-lo a alcançar seus objetivos financeiros. Junte-se a nós nesta emocionante jornada para o futuro das finanças."
+  },
+  "whitepaper": {
+    "title": "Whitepaper do AIBank Investments",
+    "description": "Nosso whitepaper abrangente detalha a tecnologia, metodologia e visão por trás do AIBank Investments. Mergulhe fundo em como estamos revolucionando o mundo das finanças com IA.",
+    "contents": "Conteúdo",
+    "download": "Baixar Whitepaper (PDF)"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "getInTouch": "Fale Conosco",
+    "formDescription": "Tem perguntas sobre o AIBank Investments? Estamos aqui para ajudar. Preencha o formulário, e entraremos em contato o mais breve possível.",
+    "address": "Endereço",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "name": "Nome",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem"
+  },
+  "interest": {
+    "title": "Junte-se ao AIBank Investments",
+    "description": "Seja um dos primeiros a experimentar o futuro dos investimentos impulsionados por IA. Inscreva-se agora para atualizações e oportunidades de acesso antecipado.",
+    "placeholder": "Digite seu e-mail",
+    "submit": "Participar Agora",
+    "success": "Sucesso!",
+    "thankYou": "Obrigado pelo seu interesse no AIBank Investments. Seu registro está completo.",
+    "tokenMessage": "Seu token único é:",
+    "tokenInstructions": "Por favor, mantenha este token em segurança. Você precisará dele para comunicações futuras e possíveis oportunidades de acesso antecipado."
+  }
+}
+

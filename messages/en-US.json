@@ -1,0 +1,62 @@
+
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "whitepaper": "Whitepaper",
+    "contact": "Contact",
+    "joinNow": "Join Now"
+  },
+  "home": {
+    "welcome": "Welcome to AIBank Investments",
+    "description": "Discover the power of AI-driven investments and secure your financial future.",
+    "latestPosts": "Latest Blog Posts",
+    "whyChoose": "Why Choose AIBank?",
+    "features": {
+      "aiPowered": "AI-powered investment strategies",
+      "personalizedAdvice": "Personalized financial advice",
+      "security": "Cutting-edge security measures",
+      "transparency": "Transparent and low fees"
+    },
+    "startInvesting": "Start Investing Now"
+  },
+  "about": {
+    "title": "About AIBank Investments",
+    "mission": "Our Mission",
+    "missionText": "Our mission is to democratize access to sophisticated investment strategies, making them available to everyone, not just the ultra-wealthy or institutional investors.",
+    "team": "Our Team",
+    "teamText": "Led by a diverse group of experts in finance, technology, and artificial intelligence, our team is committed to pushing the boundaries of what's possible in the world of investments.",
+    "technology": "Our Technology",
+    "technologyText": "At the heart of AIBank Investments is our proprietary AI engine. This advanced system analyzes vast amounts of financial data in real-time, identifying patterns and opportunities that human analysts might miss.",
+    "join": "Join Us",
+    "joinText": "Whether you're a seasoned investor or just starting out, AIBank Investments has the tools and expertise to help you achieve your financial goals. Join us on this exciting journey into the future of finance."
+  },
+  "whitepaper": {
+    "title": "AIBank Investments Whitepaper",
+    "description": "Our comprehensive whitepaper details the technology, methodology, and vision behind AIBank Investments. Dive deep into how we're revolutionizing the world of finance with AI.",
+    "contents": "Contents",
+    "download": "Download Whitepaper (PDF)"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "formDescription": "Have questions about AIBank Investments? We're here to help. Fill out the form, and we'll get back to you as soon as possible.",
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone",
+    "name": "Name",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "interest": {
+    "title": "Join AIBank Investments",
+    "description": "Be among the first to experience the future of AI-driven investments. Sign up now for updates and early access opportunities.",
+    "placeholder": "Enter your email",
+    "submit": "Join Now",
+    "success": "Success!",
+    "thankYou": "Thank you for your interest in AIBank Investments. Your registration is complete.",
+    "tokenMessage": "Your unique token is:",
+    "tokenInstructions": "Please keep this token safe. You'll need it for future communications and potential early access opportunities."
+  }
+}
+
